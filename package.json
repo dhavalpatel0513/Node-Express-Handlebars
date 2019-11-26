@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunita321/burger.git"
+    "url": "https://github.com/dhavalpatel0513/Node-Express-Handlebars"
   },
   "keywords": [
     "node",
     "handlebars"
   ],
-  "author": "Sunita Ramnarinesingh",
+  "author": "Dhaval Patel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sunita321/burger/issues"
+    "url": "https://github.com/dhavalpatel0513/Node-Express-Handlebars/issue"
   },
-  "homepage": "https://github.com/sunita321/burger#readme",
+  "homepage": "https://github.com/dhavalpatel0513/Node-Express-Handlebars#readme",
   "dependencies": {
     "body-parser": "^1.16.0",
     "express": "^4.14.0",
