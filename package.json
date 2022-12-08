@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/dhavalpatel0513/Node-Express-Handlebars#readme",
   "dependencies": {
-    "body-parser": "^1.16.0",
-    "express": "^4.14.0",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "express-handlebars": "^3.1.0",
     "method-override": "^2.3.7",
     "mysql": "^2.12.0"
